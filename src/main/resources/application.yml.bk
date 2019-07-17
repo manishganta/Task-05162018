@@ -2,7 +2,7 @@ logging:
   level:
     org.springframework.web: ERROR
     com.mkyong: DEBUG
-email: test@mkyong.com
+email: test@manish.com
 thread-pool: 10
 app:
   menus:
